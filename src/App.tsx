@@ -810,8 +810,8 @@ export default function App() {
 
       <footer className="text-center py-4 text-sm border-t border-slate-200 dark:border-slate-800">
 
-        <div className="text-slate-500 dark:text-white">
-          © 2026 Aditya Nanaware 
+        <div className="text-slate-500 dark:text-slate-400">
+          © 2026 Aditya Gajendra Nanaware 
           | 
           <span className="text-emerald-400 font-semibold mx-1">
             MindfulMate AI
@@ -820,7 +820,7 @@ export default function App() {
         </div>
 
         <div className="text-xs text-slate-400 mt-1">
-          Developed with ❤️ by Aditya Nanaware
+          Developed with ❤️ by Aditya G Nanaware
         </div>
 
       </footer>
