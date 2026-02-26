@@ -60,16 +60,14 @@ This project was developed during the **AI/ML Internship at Edunet Foundation (I
 
 B.Tech Computer Engineering
 
-## © Copyright & Ownership
+## © Copyright & License
 
 © 2026 Aditya Gajendra Nanaware. All Rights Reserved.
 
 MindfulMate AI – Student Mental Health Companion is an original project developed by **Aditya Gajendra Nanaware**.
 
-This source code and project content are protected under copyright law.
+This project is protected under copyright.
 
-You may not copy, reproduce, distribute, or modify this project without explicit permission from the author.
+See the full license here:
 
-Developer:
-Aditya Gajendra Nanaware  
-B.Tech Computer Engineering
+📄 [LICENSE](LICENSE)
