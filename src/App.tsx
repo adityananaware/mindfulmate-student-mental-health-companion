@@ -805,6 +805,13 @@ export default function App() {
           {showMeditation && <MeditationSession onClose={() => setShowMeditation(false)} />}
         </AnimatePresence>
       </main>
+      <footer className="text-center py-5 text-sm text-slate-500 dark:text-slate-400 border-t border-slate-200 dark:border-slate-800 bg-white/30 dark:bg-slate-900/30 backdrop-blur-md">
+        © 2026 <span className="font-semibold">Aditya Nanaware</span>. All Rights Reserved.
+        <br/>
+        MindfulMate – AI Mental Health Companion
+        <br/>
+        Developed with ❤️ by Aditya Nanaware
+      </footer>
     </div>
   );
 }
