@@ -1,40 +1,75 @@
-# MindfulMate: Student Mental Health Companion
+# MindfulMate AI – Student Mental Health Companion
 
-An AI-powered web application designed to support student mental well-being through empathetic conversation, mood tracking, and relaxation techniques.
+MindfulMate AI is an AI-powered mental health companion chatbot designed to support students dealing with stress, anxiety, and academic pressure. The system detects user mood using AI-based sentiment analysis and generates empathetic responses along with relaxation suggestions.
 
-## Features
+This project was developed as part of an **AI/ML Internship at Edunet Foundation in collaboration with IBM SkillsBuild.**
 
-- **AI Chatbot**: Powered by Google Gemini API, providing empathetic and supportive responses.
-- **Sentiment Analysis**: Automatically detects user mood (Happy, Neutral, Stressed, Sad, Anxious, Angry).
-- **Mood History**: Visual representation of emotional patterns over time using Recharts.
-- **User Authentication**: Secure sign-up and log-in system to maintain private chat history and profiles.
-- **Safety First**: Includes crisis detection and mental health disclaimers.
-- **Modern UI**: Calming color palette, dark mode support, and responsive design.
-- **Relaxation Tips**: Integrated suggestions for breathing exercises and meditation.
+## 🌐 Live Website
+https://mindfulmate.vercel.app
 
-## Tech Stack
+## ✨ Features
 
-- **Frontend**: React, TypeScript, Tailwind CSS, Recharts, Motion.
-- **Backend**: Node.js, Express, Better-SQLite3.
-- **AI**: Google Gemini API (@google/genai).
-- **Authentication**: JWT with secure cookies.
+- AI-powered chatbot using Google Gemini
+- Mood detection through sentiment analysis
+- Empathetic and motivational responses
+- Breathing exercise feature
+- Guided meditation session
+- Mood history visualization
+- Dark mode support
+- Custom UI themes
+- Responsive design
 
-## Setup Instructions
+## 🛠 Technologies Used
 
-1. **Install Dependencies**:
-   ```bash
-   npm install
-   ```
+- React.js
+- Vite
+- TypeScript
+- Tailwind CSS
+- Google Gemini API
+- Artificial Intelligence (Generative AI)
+- Sentiment Analysis
+- HTML & CSS
+- JavaScript
+- Vercel (Deployment)
+- GitHub (Version Control)
 
-2. **Environment Variables**:
-   Ensure `GEMINI_API_KEY` is set in your environment.
+## ⚙ How It Works
 
-3. **Run the Application**:
-   ```bash
-   npm run dev
-   ```
-   The app will be available at `http://localhost:3000`.
+1. User enters a message in the chatbot
+2. Message is sent to Gemini AI
+3. AI analyzes user sentiment
+4. Mood is detected
+5. AI generates an empathetic response
+6. Response is displayed to the user
 
-## Safety Disclaimer
+## 📂 Project Repository
 
-This chatbot is for support only and is not a replacement for professional mental health care. In case of emergency, please contact local emergency services or a mental health professional.
+https://github.com/adityananaware/mindfulmate-student-mental-health-companion
+
+## 🚀 Deployment
+
+https://mindfulmate.vercel.app
+
+## 🎓 Internship Project
+
+This project was developed during the **AI/ML Internship at Edunet Foundation (IBM SkillsBuild Program).**
+
+## 👨‍💻 Developer
+
+**Aditya Gajendra Nanaware**
+
+B.Tech Computer Engineering
+
+## © Copyright & Ownership
+
+© 2026 Aditya Gajendra Nanaware. All Rights Reserved.
+
+MindfulMate AI – Student Mental Health Companion is an original project developed by **Aditya Gajendra Nanaware**.
+
+This source code and project content are protected under copyright law.
+
+You may not copy, reproduce, distribute, or modify this project without explicit permission from the author.
+
+Developer:
+Aditya Gajendra Nanaware  
+B.Tech Computer Engineering
