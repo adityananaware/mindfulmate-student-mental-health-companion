@@ -810,10 +810,10 @@ export default function App() {
 
       <footer className="text-center py-4 text-sm border-t border-slate-200 dark:border-slate-800">
 
-        <div className="text-slate-900 dark:text-white">
+        <div className="text-slate-500 dark:text-white">
           © 2026 Aditya Nanaware 
           | 
-          <span className="text-emerald-500 font-semibold mx-1">
+          <span className="text-emerald-400 font-semibold mx-1">
             MindfulMate AI
           </span>
           | All Rights Reserved
