@@ -806,13 +806,12 @@ export default function App() {
         </AnimatePresence>
       </main>
 
+
+
       <footer className="text-center py-4 text-sm border-t border-slate-200 dark:border-slate-800">
 
-        <div className="text-slate-500 dark:text-slate-400">
-          © 2026 
-          <span className="font-semibold text-slate-900 dark:text-white mx-1">
-            Aditya Nanaware
-          </span>
+        <div className="text-slate-900 dark:text-white">
+          © 2026 Aditya Nanaware 
           | 
           <span className="text-emerald-500 font-semibold mx-1">
             MindfulMate AI
@@ -821,12 +820,7 @@ export default function App() {
         </div>
 
         <div className="text-xs text-slate-400 mt-1">
-          Developed with 
-          <span className="mx-1 text-red-400">❤️</span> 
-          by 
-          <span className="font-semibold text-slate-900 dark:text-white ml-1">
-            Aditya Nanaware
-          </span>
+          Developed with ❤️ by Aditya Nanaware
         </div>
 
       </footer>
