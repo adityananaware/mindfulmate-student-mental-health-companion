@@ -812,7 +812,7 @@ export default function App() {
         <div className="text-slate-500 dark:text-slate-400">
           © 2026 
           <span className="text-emerald-500 font-semibold mx-1">
-            Aditya Nanaware
+            Aditya Gajendra Nanaware
           </span>
           | MindfulMate AI | All Rights Reserved
         </div>
@@ -821,7 +821,7 @@ export default function App() {
           <span className="mx-1 text-red-400">❤️</span> 
           by 
           <span className="text-emerald-500 font-semibold ml-1">
-            Aditya Nanaware
+            Aditya G Nanaware
           </span>
         </div>
 
